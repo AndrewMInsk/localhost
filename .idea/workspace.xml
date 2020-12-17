@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d89bc364-7bbd-4613-915e-0ea3923b50bd" name="Default Changelist" comment="111">
+    <list default="true" id="d89bc364-7bbd-4613-915e-0ea3923b50bd" name="Default Changelist" comment="111112">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +19,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
@@ -43,18 +54,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site\news" />
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site\catalog" />
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\config" />
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\mvc" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site" />
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\models" />
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\controllers" />
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\config" />
       <recent name="D:\PHP\ops\OpenServer\domains\localhost" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site\news" />
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site\catalog" />
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\config" />
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\mvc" />
     </key>
   </component>
   <component name="RunManager">
@@ -68,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHP Script.index.php" />
       </list>
     </recent_temporary>
@@ -105,7 +117,49 @@
       <option name="project" value="LOCAL" />
       <updated>1608210034742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="111112">
+      <created>1608211346432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608211346432</updated>
+    </task>
+    <task id="LOCAL-00003" summary="111112">
+      <created>1608211635732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608211635732</updated>
+    </task>
+    <task id="LOCAL-00004" summary="111112">
+      <created>1608211681107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608211681107</updated>
+    </task>
+    <task id="LOCAL-00005" summary="111112">
+      <created>1608211745605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608211745605</updated>
+    </task>
+    <task id="LOCAL-00006" summary="111112">
+      <created>1608219687548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608219687548</updated>
+    </task>
+    <task id="LOCAL-00007" summary="111112">
+      <created>1608219869375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608219869375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +167,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="111112" />
+    <option name="LAST_COMMIT_MESSAGE" value="111112" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605366395356">
@@ -212,6 +267,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
+    <state x="249" y="86" key="MergeDialog" timestamp="1608211255535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608211255535" />
     <state x="754" y="243" key="NewPhpClassDialog" timestamp="1608117268010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,9 +287,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608210227468" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608210578232">
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog" timestamp="1608220030548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608210578232" />
+    <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608220030548" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608219695564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608219695564" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608220003691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608220003691" />
   </component>
 </project>
