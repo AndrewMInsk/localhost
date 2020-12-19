@@ -74,6 +74,7 @@ class AdminProductController extends AdminBase
                         echo move_uploaded_file($_FILES['files']['tmp_name'], ROOT . '/images/upload/' . $idProduct . $_FILES['files']['name']);
                     }
                 }
+                $result = 'All ok';
             } else {
                 $result = 'Исправьте ошибки';
             }
