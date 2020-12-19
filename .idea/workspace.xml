@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d89bc364-7bbd-4613-915e-0ea3923b50bd" name="Default Changelist" comment="111112">
+      <change afterPath="$PROJECT_DIR$/components/AdminBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/AdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/AdminProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/include/admin-footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/include/admin-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/site/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/site/admin/products_create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/site/admin/products_delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/site/admin/products_edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/site/admin/products_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_12_2020_18_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_12_2020_18_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/include/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/include/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/site/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/site/cart.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +79,24 @@
     <property name="Constants" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/site" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/site/admin" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site" />
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\models" />
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\controllers" />
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost\config" />
-      <recent name="D:\PHP\ops\OpenServer\domains\localhost" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site\news" />
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site\catalog" />
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\config" />
       <recent name="D:\PHP\ops\OpenServer\domains\localhost\mvc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site\admin" />
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\controllers" />
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\include" />
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\views\site" />
+      <recent name="D:\PHP\ops\OpenServer\domains\localhost\models" />
     </key>
   </component>
   <component name="RunManager">
@@ -79,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHP Script.index.php" />
       </list>
     </recent_temporary>
@@ -108,6 +140,7 @@
       <workItem from="1608116740182" duration="8161000" />
       <workItem from="1608141015942" duration="11419000" />
       <workItem from="1608207874992" duration="1797000" />
+      <workItem from="1608381735264" duration="10303000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1608210034742</created>
@@ -158,11 +191,30 @@
       <option name="project" value="LOCAL" />
       <updated>1608219869375</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="111112">
+      <created>1608220898780</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608220898780</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
@@ -218,66 +270,66 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608210492399" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1608387221260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221260" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1608387221260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221260" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1608209914200">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914200" />
-    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
-    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1608209914199">
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1608387221261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608209914199" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608387221261" />
     <state x="249" y="86" key="MergeDialog" timestamp="1608211255535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="249" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608211255535" />
-    <state x="754" y="243" key="NewPhpClassDialog" timestamp="1608117268010">
+    <state x="754" y="243" key="NewPhpClassDialog" timestamp="1608382581815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608117268010" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607953518751">
+    <state x="754" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608382581815" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1608382163607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607953518751" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608382163607" />
     <state x="775" y="454" key="ReplaceDuplicatesPrompt" timestamp="1606341969363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -290,10 +342,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608220030548" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608219695564">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608221078897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608219695564" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608221078897" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608220003691">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

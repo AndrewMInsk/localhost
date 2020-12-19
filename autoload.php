@@ -6,7 +6,8 @@ function autoload($className)
 {
     $arrayPaths = array(
         'config',
-        'models'
+        'models',
+        'components'
     );
     foreach ($arrayPaths as $path) {
         $path = ROOT . '/' . $path . '/' . $className . '.php';

@@ -22,6 +22,15 @@ return array(
     'user/logout'=>'user/logout',
     'contacts'=>'site/contacts',
 
+
+    'admin/products/edit/([0-9]+)'=>'adminProduct/edit/$1',
+    'admin/products/create'=>'adminProduct/create',
+
+    'admin/products/delete/([0-9]+)'=>'adminProduct/delete/$1',
+    'admin/products'=>'adminProduct/index',
+
+    'admin'=>'admin/index',
+
     '([a-z]+)'=>'notFound/index/$1',
     ''=>'site/index',
 

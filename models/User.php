@@ -88,6 +88,17 @@ class User
         }
     }
 
+    public static function getUserById($id)
+    {
+        $link = Db::getConnection();
+        $query = "SELECT * FROM user WHERE id=$id";
+
+        $result = mysqli_query($link, $query);
+
+        $row = mysqli_fetch_assoc($result);
+        return $row;
+    }
+
     public static function getNameById($id)
     {
         $link = Db::getConnection();

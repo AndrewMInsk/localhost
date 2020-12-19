@@ -66,6 +66,7 @@
                         <? if (User::isLogged()): ?>
                             <li><a href="/user/cabinet"><i class="fa fa-user"></i> Аккаунт</a></li>
                             <li><a href="/user/logout"><i class="fa fa-lock"></i> Выход</a></li>
+                            <li><a href="/admin"><i class="fa fa-user"></i> Админка</a></li>
 
                         <? else: ?>
                             <li><a href="/user/register"><i class="fa fa-lock"></i> Регистрация</a></li>
